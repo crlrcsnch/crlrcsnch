@@ -1,4 +1,4 @@
 ## About Me
-- Junior Software Engineer at AppCase Inc., developing impactful systems across the government and public sector
-- Passionate about full-stack development and delivering scalable, real-time systems using .NET and modern web technologies
+- Junior Software engineer dedicated to developing reliable and effective systems
+- Interested in full-stack development and creating scalable, real-time applications
 - Focused on building reliable backend systems and improving my full-stack skills
